@@ -46,7 +46,7 @@
 
 ---
 
-# 💻 Languages
+##  Languages
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -72,7 +72,7 @@
 
 ---
 
-# 🌐 Web Development
+##  Web Development
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -102,11 +102,15 @@
 
 ---
 
-# 🤖 AI / ML / Data Science
+## 🤖 AI / ML / Data Science
 
 <p align="left">
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
@@ -124,7 +128,7 @@
 
 ---
 
-# ⚙️ Tools & Technologies
+##  Tools & Technologies
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -142,12 +146,4 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
 </a>
-</p>
-
----
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
