@@ -121,6 +121,12 @@
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
 </a>
 
+
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="45" height="45"/>
+</a>
+
+
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>
 </a>
