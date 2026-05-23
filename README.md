@@ -12,7 +12,7 @@
 
 ##  About Me
 
--  🎓 Computer Science Student
+-  Computer Science Student
 -  Passionate about Artificial Intelligence & Machine Learning
 -  Exploring Data Science, Deep Learning & RAG Systems
 -  Competitive Programmer & Problem Solver
