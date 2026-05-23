@@ -24,7 +24,7 @@
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/iamahnaf" target="blank">
@@ -46,7 +46,7 @@
 
 ---
 
-##  Languages
+###  Languages
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -72,7 +72,7 @@
 
 ---
 
-##  Web Development
+###  Web Development
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -106,7 +106,7 @@
 
 ---
 
-##  AI / ML / Data Science
+###  AI / ML / Data Science
 
 <p align="left">
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -138,7 +138,7 @@
 
 ---
 
-##  Tools & Technologies
+###  Tools & Technologies
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
