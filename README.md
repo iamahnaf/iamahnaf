@@ -12,13 +12,13 @@
 
 ##  About Me
 
-- 🎓 Computer Science Student
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 📊 Exploring Data Science, Deep Learning & RAG Systems
-- 💻 Competitive Programmer & Problem Solver
-- 🚗 Building Embedded Systems & ESP32 Projects
-- 🌱 Currently learning **Data Science, Machine Learning & Deep Learning**
-- 👯 Looking to collaborate on **AI/ML & Data Science Research Projects**
+-  🎓 Computer Science Student
+-  Passionate about Artificial Intelligence & Machine Learning
+-  Exploring Data Science, Deep Learning & RAG Systems
+-  Competitive Programmer & Problem Solver
+-  Building Embedded Systems & ESP32 Projects
+-  Currently learning **Data Science, Machine Learning & Deep Learning**
+-  Looking to collaborate on **AI/ML & Data Science Research Projects**
 
 📫 Reach me at: **mtahmid2310203@bscse.uiu.ac.bd**
 
