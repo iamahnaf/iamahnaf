@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahnaf Tahmid </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%2F+Machine+learning+Enthusiast;Competitive+Programmer;Embedded+Systems+Developer;Full+Stack+Learner" />
-</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=iamahnaf&label=Profile%20Views&color=0e75b6&style=flat" alt="iamahnaf" />
-</p>
 
----
 
 ##  About Me
 
