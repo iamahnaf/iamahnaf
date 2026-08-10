@@ -4,9 +4,9 @@
 
 -  Computer Science Student
 -  Passionate about Artificial Intelligence & Machine Learning
--  Exploring Data Science, Deep Learning 
+-  Exploring Data Science
 -  Competitive Programmer & Problem Solver
--  Currently learning **Data Science, Machine Learning, Deep Learning & Computer Vision**
+-  Currently learning **Machine Learning, Deep Learning & Computer Vision**
 -  Looking to collaborate on **AI/ML & Data Science Research Projects**
 
 📫 Reach me at: **mtahmid2310203@bscse.uiu.ac.bd**
