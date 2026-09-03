@@ -4,8 +4,7 @@
 
 -  Computer Science Student
 -  Passionate about Artificial Intelligence & Machine Learning
--  Exploring Data Science
--  Competitive Programmer & Problem Solver
+-  Competitive Programmer & Problem Solver 
 -  Currently learning **Machine Learning, Deep Learning & Computer Vision**
 -  Looking to collaborate on **AI/ML & Data Science Research Projects**
 
